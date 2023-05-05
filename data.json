@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti commodi consectetur qui ducimus soluta laudantium temporibus obcaecati, iure, perspiciatis possimus laboriosam nisi voluptatem? Molestiae fugit accusamus architecto molestias a."
+    },
+    {
+        "id": 2,
+        "title": "App Development",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti commodi consectetur qui ducimus soluta laudantium temporibus obcaecati, iure, perspiciatis possimus laboriosam nisi voluptatem? Molestiae fugit accusamus architecto molestias a."
+    },
+    {
+        "id": 3,
+        "title": "Software Development",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti commodi consectetur qui ducimus soluta laudantium temporibus obcaecati, iure, perspiciatis possimus laboriosam nisi voluptatem? Molestiae fugit accusamus architecto molestias a."
+    },
+    {
+        "id": 4,
+        "title": "Digital Marketing",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti commodi consectetur qui ducimus soluta laudantium temporibus obcaecati, iure, perspiciatis possimus laboriosam nisi voluptatem? Molestiae fugit accusamus architecto molestias a."
+    },
+    {
+        "id": 5,
+        "title": "Graphic Designer",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti commodi consectetur qui ducimus soluta laudantium temporibus obcaecati, iure, perspiciatis possimus laboriosam nisi voluptatem? Molestiae fugit accusamus architecto molestias a."
+    },
+    {
+        "id": 6,
+        "title": "FreeProjects1",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti commodi consectetur qui ducimus soluta laudantium temporibus obcaecati, iure, perspiciatis possimus laboriosam nisi voluptatem? Molestiae fugit accusamus architecto molestias a."
+    }
+]
